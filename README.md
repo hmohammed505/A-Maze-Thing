@@ -1,6 +1,6 @@
 # A-Maze-Thing
 
-A 8-bit Sprite game where the player must navigate through different levels of mazes to find the exit. Player must reach exit before the NPC ghost sprite catches the player.
+An 8-bit Sprite game where the player must navigate through different levels of mazes to find the exit. Player must reach exit before the NPC ghost sprite catches the player.
 
 # Language 
 
@@ -31,4 +31,4 @@ A-Maze-Thing was written in Lua through Lexaloffle's Pico-8 virtual console.
 # Controls 
 
 * Navigate with yoru keyboard's arrow keys 
-* Press Z to start 
+* Press Z to start/continue 
