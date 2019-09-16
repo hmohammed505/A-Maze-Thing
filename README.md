@@ -4,7 +4,7 @@ A 8-bit Sprite game where the player must navigate through different levels of m
 
 ## Members 
 
-1. **Hasan Mohammed**: *Lead Programmer & Testing Lead*
+1. **Hasan Mohammed**: *Lead Software Engineer and Test Engineer*
 2. **Nancy Sardar**: *Project Manager, Documentation, Music Lead*
 
 # Installation 
