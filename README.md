@@ -1,6 +1,6 @@
 # A-Maze-Thing
 
-A 8-bit Sprite game where the player must navigate through different levels of mazes to find the exit. Player must reach exit before the NPC ghost sprite catches the player. 
+A 8-bit Sprite game where the player must navigate through different levels of mazes to find the exit. Player must reach exit before the NPC ghost sprite catches the player 
 
 ## Members 
 
