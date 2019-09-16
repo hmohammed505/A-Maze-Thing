@@ -8,12 +8,12 @@ A-Maze-Thing was written in Lua through Lexaloffle's Pico-8 virtual console.
 
 # Members 
 
-1. **Hasan Mohammed**: *Lead Software Engineer and Test Engineer*
-2. **Nancy Sardar**: *Lead Documentation and Lead Music Developer*
+1. **Hasan Mohammed**: *Software Engineer and Test Engineer*
+2. **Nancy Sardar**: *Documentation Specialist and Music and Graphics Engineer*
 
 # Installation 
 
-1. No Installation required; Pico-8 software provided
+1. No Installation required; Pico-8 software already provided
 
 # How to Run
 
