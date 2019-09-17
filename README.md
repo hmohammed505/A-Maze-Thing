@@ -1,21 +1,27 @@
 # A-Maze-Thing
 
-An 8-bit Sprite game where the player must navigate through different levels of mazes to find the exit. Player must reach exit before the NPC ghost sprite catches the player.
+An 8-bit Sprite game where the player must navigate through different levels of mazes to find the exit. Player must reach exit before the NPC ghost sprite catches the player. 
 
-# Language 
+## Language 
 
-A-Maze-Thing was written in Lua through Lexaloffle's Pico-8 virtual console. 
+A-Maze-Thing was written in *Lua* through Lexaloffle's Pico-8 virtual console. 
 
-# Members 
+## Members 
 
 1. **Hasan Mohammed**: *Software Engineer and Test Engineer*
-2. **Nancy Sardar**: *Documentation Specialist and Music and Graphics Engineer*
+2. **Nancy Sardar**: *Documentation Specialist and Music & Graphics Engineer*
 
-# Installation 
+## Installation 
 
 1. No Installation required; Pico-8 software already provided
 
-# How to Run
+## Game Instructions
+
+* Find the exits to first three levels. Find the treasure chest in level four!
+* Navigate with the keyboard's arrow keys 
+* Press Z to start 
+
+## How to Run
 
 * Open the "Pico" folder 
 * Select and run the file "pico8.exe" 
@@ -26,9 +32,4 @@ A-Maze-Thing was written in Lua through Lexaloffle's Pico-8 virtual console.
 * Return to the pico8.exe window 
 * Type "load amazething.p8" and press enter (all lowercase) 
 * Type "run" and press enter
-* Enjoy! There's a surpise on level 4 
-
-# Controls 
-
-* Navigate with yoru keyboard's arrow keys 
-* Press Z to start/continue 
+* Enjoy! (There's a surpise challenge on level 4) 
